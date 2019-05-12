@@ -1,3 +1,12 @@
+Trying to get a newer core to work with bots on WotLK
+
+CMaNGOS core is CMaNGOS-Core revision : 4ffa9413d794e27438080d08bded323dabfffaab
+                Revision time stamp   : "2019-05-12T04:29:43-05:00"
+                
+Bots were taken from : https://github.com/apock69/mangosbot-bots
+
+If anyone would like to help, please message me.  I'm not a professional by any means so any help would be great!
+-------------------------------------------------------------------------------------------------------------------
 # C(ontinued)-MaNGOS -- README
 [![Build Status](https://travis-ci.org/cmangos/mangos-wotlk.svg?branch=master)](https://travis-ci.org/cmangos/mangos-wotlk) [![Windows Build status](https://ci.appveyor.com/api/projects/status/github/cmangos/mangos-wotlk?branch=master&svg=true)](https://ci.appveyor.com/project/cmangos/mangos-wotlk/branch/master)
 

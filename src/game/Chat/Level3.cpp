@@ -53,7 +53,6 @@
 #include "Maps/InstanceData.h"
 #include "AI/EventAI/CreatureEventAIMgr.h"
 #include "Server/DBCEnums.h"
-#include "AuctionHouseBot/AuctionHouseBot.h"
 #include "Server/SQLStorages.h"
 #include "Loot/LootMgr.h"
 

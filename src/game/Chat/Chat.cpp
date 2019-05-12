@@ -33,7 +33,7 @@
 #include "Spells/SpellMgr.h"
 #include "Pools/PoolManager.h"
 #include "GameEvents/GameEventMgr.h"
-#include "AuctionHouseBot/AuctionHouseBot.h"
+//#include "../modules/bots/ahbot/AhBot.h"
 
 // Supported shift-links (client generated and server side)
 // |color|Hachievement:achievement_id:player_guid_hex:completed_0_1:mm:dd:yy_from_2000:criteriaMask1:criteriaMask2:criteriaMask3:criteriaMask4|h[name]|h|r
